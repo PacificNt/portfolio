@@ -2631,10 +2631,10 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
-                        .project-image img {
+                .image.project img {
                                height: 200px; 
                             object-fit: cover; 
-                          }
+                        }
 
 		.image.main {
 			display: block;
